@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chetan Choudhary
 - 🌱 I’m currently learning Power BI
 - 🌱 Expertise in Python, Django, Javascript, Jquery, HTML/CSS, Bootstrap, Full stack development
-- 📫 I am one mail ahead: chetanc124@gmail.com 
+- 📫 I am one mail ahead: chetanchoudharie@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
